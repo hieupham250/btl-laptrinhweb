@@ -1,0 +1,187 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$/rcQLuAJ/dBVOa1UpGDBM.plu/GP6zM0CvfdocKZP1AQdX5SkMY6K",
+      "role": 1,
+      "status": true,
+      "profilePicture": "https://static.vecteezy.com/system/resources/previews/009/734/564/original/default-avatar-profile-icon-of-social-media-user-vector.jpg",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Đình Dương",
+      "email": "hung@gmai.com",
+      "password": "$2a$10$HItMlGsCIUq8voNHPpZE/O5564qgeWORU4rdvF7m1X/2YNUkiazL6",
+      "role": 1,
+      "status": true,
+      "profilePicture": "https://static.vecteezy.com/system/resources/previews/009/734/564/original/default-avatar-profile-icon-of-social-media-user-vector.jpg",
+      "id": 5
+    },
+    {
+      "name": "Nguyễn Đình Dương",
+      "email": "duong@gmail.com",
+      "password": "$2a$10$UqgZRw0nBao2D9rMppu0UOmDR2GvIAhaUbbGxDPnkz0QQnl7JBzjC",
+      "role": 0,
+      "status": true,
+      "profilePicture": "https://static.vecteezy.com/system/resources/previews/009/734/564/original/default-avatar-profile-icon-of-social-media-user-vector.jpg",
+      "id": 6
+    },
+    {
+      "name": "Phạm Trung Hiếu",
+      "email": "trunghieu@gmail.com",
+      "password": "$2a$10$/rcQLuAJ/dBVOa1UpGDBM.plu/GP6zM0CvfdocKZP1AQdX5SkMY6K",
+      "role": 0,
+      "status": true,
+      "profilePicture": "https://static.vecteezy.com/system/resources/previews/009/734/564/original/default-avatar-profile-icon-of-social-media-user-vector.jpg",
+      "id": 7
+    }
+  ],
+  "courses": [
+    {
+      "title": "Khóa luyện thi THPT",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 1
+    },
+    {
+      "title": "Khóa thi DGNL",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 2
+    },
+    {
+      "title": "Khóa thi nâng cao",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 3
+    },
+    {
+      "title": "Khóa thi luyện cuối kỳ",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 4
+    },
+    {
+      "title": "Khóa luyện thi Đại học",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 5
+    },
+    {
+      "title": "Khóa ôn luyện cấp tốc",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 6
+    },
+    {
+      "title": "Khóa ôn thi",
+      "description": "luyện trách nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 7
+    }
+  ],
+  "examSubjects": [
+    {
+      "title": "Môn toán",
+      "description": "Môn học được quan tâm nhiều nhất",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/20.jpg?alt=media&token=a41bd001-b347-4d45-876e-b408f734a36a",
+      "courseId": 1,
+      "id": 1
+    },
+    {
+      "title": "Môn hóa",
+      "description": "Môn được mọi người để tâm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/20.jpg?alt=media&token=a41bd001-b347-4d45-876e-b408f734a36a",
+      "courseId": 1,
+      "id": 2
+    },
+    {
+      "title": "Môn lý",
+      "description": "Môn khó học thật sự\n",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/20.jpg?alt=media&token=a41bd001-b347-4d45-876e-b408f734a36a",
+      "courseId": 1,
+      "id": 3
+    },
+    {
+      "title": "Môn sinh",
+      "description": "học giỏi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/20.jpg?alt=media&token=a41bd001-b347-4d45-876e-b408f734a36a",
+      "courseId": 1,
+      "id": 4
+    }
+  ],
+  "exams": [
+    {
+      "title": "Đề thi số 1",
+      "description": "Được thi nhiều nhất",
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/29.jpg?alt=media&token=07ec6572-9c97-41e7-bfee-e5c229a98f16",
+      "examSubjectId": 1,
+      "id": 1
+    },
+    {
+      "title": "Đề thi số 2",
+      "description": "Đề được quan tâm nhiều nhất",
+      "duration": 60,
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/29.jpg?alt=media&token=07ec6572-9c97-41e7-bfee-e5c229a98f16",
+      "examSubjectId": 1,
+      "id": 2
+    },
+    {
+      "title": "Đề thi số 3",
+      "description": "nhanh hơn",
+      "duration": 120,
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/29.jpg?alt=media&token=07ec6572-9c97-41e7-bfee-e5c229a98f16",
+      "examSubjectId": 1,
+      "id": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "1 +1 =?",
+      "examId": 1,
+      "options": ["2", "3", "8", "7"],
+      "answer": "2"
+    },
+    {
+      "id": 2,
+      "question": "Vạn lý trường thành của nước nào?",
+      "examId": 1,
+      "options": ["Trung Quốc", "Việt Nam", "Hàn Quốc", "Nhật Bản"],
+      "answer": "Trung Quốc"
+    },
+    {
+      "id": 3,
+      "question": "Căn bậc 2 của 4 là bao nhiêu?",
+      "examId": 1,
+      "options": ["8", "3", "8", "2"],
+      "answer": "2"
+    },
+    {
+      "id": 4,
+      "question": "1 +1 =?",
+      "examId": 3,
+      "options": ["2", "3", "8", "7"],
+      "answer": "2"
+    },
+    {
+      "id": 5,
+      "question": "2 * 6 =?",
+      "examId": 3,
+      "options": ["5", "12", "8", "30"],
+      "answer": "12"
+    }
+  ],
+  "userAnswers": [
+    {
+      "userId": 6,
+      "examId": 1,
+      "nameExam": "Đề thi số 1",
+      "score": 10,
+      "id": 1
+    }
+  ],
+  "comments": []
+}
